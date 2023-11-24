@@ -39,8 +39,8 @@
 <br>
 <h3 align="left">📊 GitHub Stats:</h3>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&locale=en&layout=compact" alt="islam-abdelwahed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&theme=react&locale=en&layout=compact" alt="islam-abdelwahed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-abdelwahed&show_icons=true&locale=en" alt="islam-abdelwahed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-abdelwahed&show_icons=true&theme=react&locale=en" alt="islam-abdelwahed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&" alt="islam-abdelwahed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=react&show_icons=true&" alt="islam-abdelwahed" /></p>
