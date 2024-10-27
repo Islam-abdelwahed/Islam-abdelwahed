@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam Elsayed Mohamed</h1>
 <h3 align="center">An Embedded System Engineer Form Egypt</h3>
 
-<img align="right" alt="MyLife" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=1500w">
+<img align="right" alt="MyLife" width="400" src="https://github.com/Islam-abdelwahed/Islam-abdelwahed/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="islam-abdelwahed" /> </p>
 
 <br>
