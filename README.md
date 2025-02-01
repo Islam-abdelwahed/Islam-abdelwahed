@@ -42,10 +42,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
 <br>
-<h3 align="left">📊 GitHub Stats:</h3>
+<!--<h3 align="left">📊 GitHub Stats:</h3>
 <hr>
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=islam-abdelwahed&show_icons=true&theme=react&locale=en" alt="islam-abdelwahed" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=react&show_icons=true&" alt="islam-abdelwahed" />
-</p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&theme=react&locale=en&layout=compact" alt="islam-abdelwahed" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&theme=react&locale=en&layout=compact" alt="islam-abdelwahed" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=react&show_icons=true&" alt="islam-abdelwahed" />
+</p>-->
