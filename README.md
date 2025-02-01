@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=islam-abdelwahed&label=You%20are%20the%20visitor%20number&color=5d5d5d&style=flat-square" alt="islam-abdelwahed" /> </p>
 
 <br>
-<h3 align="center">🌎Connect with me:</h3>
+<h3 >🌎Connect with me:</h3>
 <hr>
 <p>- 📫 How to reach me <b>islamabdelwahed61@gmail.com</b></p>
 <br>
@@ -22,7 +22,7 @@
 </p>
 <br>
 <br>
-<h3  align="center">🔮Languages and Tools:</h3>
+<h3 >🔮Languages and Tools:</h3>
 <hr>
 
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
