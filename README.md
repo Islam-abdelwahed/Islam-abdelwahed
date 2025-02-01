@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Islam Elsayed Mohamed</h1>
-<h3 align="center">An Embedded System Engineer Form Egypt</h3>
+<h1 align="center">Hi 👋, I'm Islam Elsayed</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+developer;Software+engineer" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="MyLife" width="400" src="https://github.com/Islam-abdelwahed/Islam-abdelwahed/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif?raw=true">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="islam-abdelwahed" /> </p>
+<div align="center">
+<img alt="MyLife" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100740366/408793327-6e9b8fd2-2336-46e0-a31a-f55b2c0c53cd.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250201T105618Z&X-Amz-Expires=300&X-Amz-Signature=9937b2f378e13046776896a4696b10d00103143099ef393a4c4030d32afd37fa&X-Amz-SignedHeaders=host">
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=islam-abdelwahed&label=You%20are%20the%20visitor%20number&color=5d5d5d&style=flat-square" alt="islam-abdelwahed" /> </p>
 
 <br>
-<h3 align="left">🌎Connect with me:</h3>
+<h3 align="center">🌎Connect with me:</h3>
 <hr>
 <p>- 📫 How to reach me <b>islamabdelwahed61@gmail.com</b></p>
 <br>
-<p align="left"><a href="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" height="30" width="40" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" height="30" width="40" /></a>
 <a href="https//www.facebook.com/islamelsayed.abdelwahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/islamelsayed.abdelwahed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/2slam_2lsaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/2slam_2lsaid/" height="30" width="40" /></a>
 <a href="https://youtube.com/@islamelsayed2301?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@islamelsayed2301?feature=shared" height="30" width="40" /></a>
@@ -17,10 +22,10 @@
 </p>
 <br>
 <br>
-<h3 align="left">🔮Languages and Tools:</h3>
+<h3  align="center">🔮Languages and Tools:</h3>
 <hr>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -39,8 +44,8 @@
 <br>
 <h3 align="left">📊 GitHub Stats:</h3>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&theme=react&locale=en&layout=compact" alt="islam-abdelwahed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-abdelwahed&show_icons=true&theme=react&locale=en" alt="islam-abdelwahed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=react&show_icons=true&" alt="islam-abdelwahed" /></p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=islam-abdelwahed&show_icons=true&theme=react&locale=en" alt="islam-abdelwahed" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=react&show_icons=true&" alt="islam-abdelwahed" />
+</p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&theme=react&locale=en&layout=compact" alt="islam-abdelwahed" /></p>
