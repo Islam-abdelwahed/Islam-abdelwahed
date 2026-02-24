@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://github.com/islam-abdelwahed/islam-abdelwahed/blob/main/0_7Q3yvSIv_t0ioJ-Z-ezgif.com-gif-maker.gif" width="420" alt="My Life in Code" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=1e1e2e" alt="Profile Views" />
+  <!-- <br><br> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=1e1e2e" alt="Profile Views" /> -->
 </div>
 
 ---
