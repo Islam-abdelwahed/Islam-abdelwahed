@@ -1,48 +1,83 @@
-<h1 align="center">Hi 👋, I'm Islam Elsayed</h1>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+developer;Software+engineer" alt="Typing SVG" />
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=480&lines=Hi,+I'm+Islam+Elsayed;Backend+Developer+%26+Software+Engineer;Building+the+future+one+line+at+a+time;Flutter+%7C+Backend+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-<img alt="MyLife" width="400" src="https://github.com/Islam-abdelwahed/Islam-abdelwahed/blob/main/0_7Q3yvSIv_t0ioJ-Z-ezgif.com-gif-maker.gif" clickable=false>
+  <img src="https://github.com/islam-abdelwahed/islam-abdelwahed/blob/main/0_7Q3yvSIv_t0ioJ-Z-ezgif.com-gif-maker.gif" width="420" alt="My Life in Code" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=1e1e2e" alt="Profile Views" />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=islam-abdelwahed&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=islam-abdelwahed&label=You%20are%20the%20visitor%20number&color=5d5d5d&style=flat-square" alt="islam-abdelwahed" /> </p>
+---
 
-<h3 >🌎Connect with me:</h3>
-<hr>
+### 🌟 About Me
 
-<p>- 📫 How to reach me <a href="mailto:islamabdelwahed61@gmail.com">islamabdelwahed61@gmail.com</a></p>
-<p align="center"><a href="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" height="30" width="40" /></a>
-<a href="https//www.facebook.com/islamelsayed.abdelwahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/islamelsayed.abdelwahed" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/2slam_2lsaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/2slam_2lsaid/" height="30" width="40" /></a> -->
-<!-- <a href="https://youtube.com/@islamelsayed2301?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@islamelsayed2301?feature=shared" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/profile/islamabdelwahed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/islamabdelwahed1" height="30" width="40" /></a> -->
+**Passionate Backend Developer & Software Engineer** who turns coffee into clean, scalable code.  
+I believe **great software doesn't just work — it inspires**.  
+
+Whether it's crafting robust backend systems, building beautiful cross-platform apps with Flutter, or solving real-world problems with elegant solutions — I'm all in.  
+
+Currently obsessed with **architecture patterns**, **performance optimization**, and creating digital experiences that actually matter.  
+
+**"Code is my canvas. The world is my gallery."** ✨
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:islamabdelwahed61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/islamelsayed.abdelwahed" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<h3 >🔮Languages and Tools:</h3>
-<hr>
+---
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
+### 🔥 Tech Stack
 
-<!--<h3 align="left">📊 GitHub Stats:</h3>
-<hr>
 <p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdelwahed&show_icons=true&theme=react&locale=en&layout=compact" alt="islam-abdelwahed" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=react&show_icons=true&" alt="islam-abdelwahed" />
-</p>-->
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="42" height="42"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="42" height="42"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdelwahed&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 💡 Currently Building
+- Scalable backend systems with clean architecture  
+- Cross-platform mobile apps that feel native  
+- Open-source contributions (always open to collaborate!)  
+
+---
+
+**Thanks for stopping by!**  
+If you're building something awesome or just want to chat about code, tech, or life — **I'm just one message away**.  
+
+Let's create something legendary together 🚀
