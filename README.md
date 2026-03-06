@@ -30,7 +30,7 @@ Currently obsessed with **architecture patterns**, **performance optimization**,
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="36" height="36" alt="Email" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/islam-elsayed-2a77a6248/" target="_blank">
+  <a href="https://www.linkedin.com/in/islamelsayed0/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
