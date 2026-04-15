@@ -49,7 +49,6 @@ Currently obsessed with **architecture patterns**, **performance optimization**,
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50"/></a>
 </div>
 
